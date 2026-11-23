@@ -1,5 +1,6 @@
 # MYSQL
-LMS- Learning Management system
+# LMS- Learning Management system
+
 The Learning Management System (LMS) is a database management project designed to manage students, mentors, courses, enrollments, and assessments.
 
 The database organizes learning-related information and maintains relationships between students, mentors, courses, and assessments.
